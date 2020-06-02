@@ -8,6 +8,7 @@ php artisan migrate:refresh --seed
 ```
 
 Task 1 => /countryusers
+
 Task 2 => /pdf
 
 1. There are a few models. User, Country, and Company.
